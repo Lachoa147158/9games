@@ -1,0 +1,891 @@
+{
+    "games": [{
+        "slug": "alien-robots",
+        "name": "Alien Robots",
+        "shortName": "Alien Robots",
+        "vendor": "NetEnt",
+        "description": "Alien Robots™ is a beautiful and playful space age theme with vivid graphics and a Free Spins mode featuring an Expanded Sticky Wild with re-spin. Players will be immersed in the wonderful world of robots in which they can take small steps toward 30 bet lines or even take a giant leap to 243 bet ways.",
+        "newGame": false,
+        "popularity": 91213,
+        "thumbnail": "//static.gammatrix.com/_casino/F/F1C2DCFEAEC2C205DCA804345136874C.jpg",
+        "license": "malta",
+        "logo": "//static.gammatrix.com/_casino/2/2276FDCE0FA9E44988CBC6DA945B5F61.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "243-ways",
+            "30-line-slots"
+        ]
+    }, {
+        "slug": "arabian-nights",
+        "name": "Arabian Nights",
+        "shortName": "Arabian Nights",
+        "vendor": "NetEnt",
+        "description": "Arabian Nights has triple winnings on Free Spins increasing chances of large winnings. The wild symbol doubles the winnings and if five wild symbols turn up on any one bet line player wins the progressive pooled jackpot.",
+        "newGame": false,
+        "popularity": 28347,
+        "thumbnail": "//static.gammatrix.com/_casino/3/35E50BB277110BDB2320255C383A890D.jpg",
+        "license": "malta",
+        "logo": "//static.gammatrix.com/_casino/A/A2F28E1C30F8A0CD04FCEACB1E8EE52C.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "global-jp"
+        ]
+    }, {
+        "slug": "blood-suckers",
+        "name": "Blood Suckers",
+        "shortName": "Blood Suckers",
+        "vendor": "NetEnt",
+        "description": "Blood Suckers™ is a 5-reel, 25-line, vampire inspired video slot with a high payout ratio. Three or more bonus symbols take the player to a chilling vampire slaying bonus game. The maximum bet per game is €50, with a maximum win during Free spins of €50,730.",
+        "newGame": false,
+        "popularity": 1631104,
+        "thumbnail": "//static.gammatrix.com/_casino/9/99DE8123D509E25463A5CF467A900A21.jpg",
+        "license": "malta",
+        "logo": "//static.gammatrix.com/_casino/A/A0C305D5BD74B8C72ED932536884DBDD.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": []
+    }, {
+        "slug": "boom-brothers",
+        "name": "Boom Brothers",
+        "shortName": "Boom Brothers",
+        "vendor": "NetEnt",
+        "description": "What do you get when you mix three industrious dwarves who own a gargantuan mine with lots and lots of explosives? The Boom Brothers! Players will have a blast with the surprise animations—if bomb-throwing dwarves don’t get players wanting more, maybe the sight of the crazy jet-packer will. To keep players on their toes, we've thrown in a whole raft of animation and special effects - some of them big, but some so subtle that players may find new things hours after they start playing. ",
+        "newGame": false,
+        "popularity": 63178,
+        "thumbnail": "//static.gammatrix.com/_casino/6/6B018BB414F10F5418D16A23DD72436C.jpg",
+        "license": "malta",
+        "logo": "//static.gammatrix.com/_casino/3/385099FD85170D4E1974CB8449262C4D.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": []
+    }, {
+        "slug": "four-by-four",
+        "name": "Four by Four",
+        "shortName": "Four by Four",
+        "vendor": "Microgaming",
+        "description": "Stake between $0.10 and $50.00 per game in Four by Four casino game with the highest wager yielding the highest rewards, play in expert mode or in auto play. The purple star is the wild and substitutes for all symbols. It outshines the other symbols with the highest symbol multiplier of 5x. The yellow ring has a 3x multiplier, the green diamond, a 1x multiplier, the blue cross, a 0.5 multiplier, and the red X is a 0.2x multiplier. The Nudge Bonus is awarded with 4 or more Bonus Nudge symbols where all wins will be multiplied by 10. ",
+        "newGame": false,
+        "popularity": 1176,
+        "thumbnail": "//static.gammatrix.com/_casino/E/E105F6B9104555E2322C7847DBC161D1.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/1/178C9D96FEED7476679EF00CAF149438.png",
+        "categories": [
+            "OTHERGAMES"
+        ],
+        "tags": []
+    }, {
+        "slug": "alaskan-fishing",
+        "name": "Alaskan Fishing",
+        "shortName": "Alaskan Fishing",
+        "vendor": "Microgaming",
+        "description": "Alaskan Fishing is a 243-way, 5-reel slot game. The abundance of animations and the fishing-themed artwork will appeal to those involved in the sport. In the Fly Fishing bonus game,you can pick 5 fishing spots to reveal bonus win amounts.",
+        "newGame": false,
+        "popularity": 20774,
+        "thumbnail": "//static.gammatrix.com/_casino/B/BF955E164EBE86E4551B11889B34A921.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/1/1AA4D99AC08FA9D9B64BAE4AF054F432.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": []
+    }, {
+        "slug": "asian-beauty",
+        "name": "Asian Beauty",
+        "shortName": "Asian Beauty",
+        "vendor": "Microgaming",
+        "description": "Asian Beauty Video Slot is a 5 Reel, 243 Way Video Slot, with a Wild substitute and a scatter which triggers Free Spins. 3, 4 or 5 Scatter anywhere on the reels triggers 10, 15 or 25 Free Spins respectively. The Princess Bonus is randomly triggered in which the first 3 of a Kind Match wins the associated princess prize.",
+        "newGame": false,
+        "popularity": 4320,
+        "thumbnail": "//static.gammatrix.com/_casino/7/7485A55CD34F56E8B39A62C3A14001A2.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/5/5E3B031C61A626521CC6538FA5AB7C54.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "big-kahuna-snakes-and-ladders",
+        "name": "Big Kahuna - Snakes and Ladders",
+        "shortName": "Big Kahuna - S&L",
+        "vendor": "Microgaming",
+        "description": "Big Kahuna - Snakes and Ladders is a 5 reels and 15 paylines video slot. The max bet you can make is 300 coins but you can choose the value of those coins from 0.01-0.25. ",
+        "newGame": false,
+        "popularity": 12828,
+        "thumbnail": "//static.gammatrix.com/_casino/1/107D61993E14E242AB46076537873585.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/D/D7FAD07E6675D4A42750740AE9F67E0D.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slost",
+            "15-line-slots"
+        ]
+    }, {
+        "slug": "big-top",
+        "name": "Big Top",
+        "shortName": "Big Top",
+        "vendor": "Microgaming",
+        "description": "Big Top is a 5-reel, 9-line video slot machine game. This means there are five spinning reels from which to form your winning combinations. For every coin that you put in you enable another payline. When the reels stop, the computer checks the combinations of symbols along each enabled payline. ",
+        "newGame": false,
+        "popularity": 1045,
+        "thumbnail": "//static.gammatrix.com/_casino/C/C6E7850965FAA9367E9372090398B201.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/5/5D1591FDF475ABC7B2140F3C4D8E1EC5.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "9-line-slots"
+        ]
+    }, {
+        "slug": "burning-desire",
+        "name": "Burning Desire",
+        "shortName": "Burning Desire",
+        "vendor": "Microgaming",
+        "description": "Burning Desire is a 5-reel but NO PAYLINE video slot which allows you 243 ways to win big.  This exciting game is sure to get the blood rushing straight to the heart.Keep an eye out for the Burning Desire Wilds and the Coin Scatters which will heat up your winnings.",
+        "newGame": false,
+        "popularity": 23486,
+        "thumbnail": "//static.gammatrix.com/_casino/E/ED8E90DE2EED5D9A49D42AA59275EF8B.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/F/F55BF71085865C6F800B38F0B11197A9.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": []
+    }, {
+        "slug": "carnaval",
+        "name": "Carnaval",
+        "shortName": "Carnaval",
+        "vendor": "Microgaming",
+        "description": "Carnaval is a 5-reel, 9-line video slot machine game. This means there are five spinning reels from which to form your winning combinations. For every coin that you put in you enable another payline. ",
+        "newGame": false,
+        "popularity": 15014,
+        "thumbnail": "//static.gammatrix.com/_casino/5/543B6013964CE7EA9A54D7CD6AA4E571.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/0/0890D7497F52AEC8F54181BA18C1D376.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "cashapillar",
+        "name": "Cashapillar",
+        "shortName": "Cashapillar",
+        "vendor": "Microgaming",
+        "description": "Cashapillar features 5 reels and no less than 100 paylines. Also, the betting range of the famous Cashapillar suits everyone’s pocket - but still you’d better be ready for some huge payouts because the maximum wager here is 1,000 casino coins. ",
+        "newGame": false,
+        "popularity": 18261,
+        "thumbnail": "//static.gammatrix.com/_casino/F/F9EEB56BFD87177019F8A0286943A2C4.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/D/D48FCFB90F2E40059406C39935B45F50.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "centre-court",
+        "name": "Centre Court",
+        "shortName": "Centre Court",
+        "vendor": "Microgaming",
+        "description": "Centre Court Video Slot is a 5 reel, 9 payline, multiple coin game, with a Wild, Scatters which trigger 18 Free Spins, where wins are multiplied by a mystery multiplier of either, 2x, 3x, 4x or 5x and Free Spins can be re-triggered",
+        "newGame": false,
+        "popularity": 33403,
+        "thumbnail": "//static.gammatrix.com/_casino/F/FD8638AC204ADEB58029033DDD9AC257.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/E/EBA941E1ACE5EB2B5BB1F650F123D5EA.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "9-line-slots"
+        ]
+    }, {
+        "slug": "crazy-80s",
+        "name": "Crazy 80's",
+        "shortName": "Crazy 80's",
+        "vendor": "Microgaming",
+        "description": "Crazy 80s is a 5-reel, 9 line video slot with an energetic theme, captivating colours and a max jackpot in currency of 25 000.00, Crazy 80s will take you back in time to the days of neon socks and larger than life hair! It includes both Wild and Scatter symbols, bound to increase your chances of winning.",
+        "newGame": false,
+        "popularity": 24,
+        "thumbnail": "//static.gammatrix.com/_casino/B/B895E913A985DAB36EE6CDE8C3144831.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/3/36BA576A797AD1873633722707A385F8.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "crazy-chameleons",
+        "name": "Crazy Chameleons",
+        "shortName": "Crazy Chameleons",
+        "vendor": "Microgaming",
+        "description": "Crazy Chameleons Video Slot is a 5 reel, 10 coin, 20 payline + 5 coins per line bet for the Golden Goose Bonus Feature. It has a Wild, Multiplier and a Scatter symbol, and 4 randomly triggered Bonus games.",
+        "newGame": false,
+        "popularity": 279,
+        "thumbnail": "//static.gammatrix.com/_casino/B/BFCAC9F4C72C7EFBACB3CC8139E9DDDC.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/1/1A4E9A47B34F80F335D7691206C14308.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "deck-the-halls",
+        "name": "Deck the Halls",
+        "shortName": "Deck the Halls",
+        "vendor": "Microgaming",
+        "description": "Deck the Halls is a 30 line， 5-reel video slot which puts us in the festive mood and presents us with presents – in the form of features, of course!\r\n",
+        "newGame": false,
+        "popularity": 48953,
+        "thumbnail": "//static.gammatrix.com/_casino/E/E9BB3CE143DDDB7A30A8C1ADA2EEB653.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/0/0DFA9658D082D1E74484E172795915E1.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": []
+    }, {
+        "slug": "cashsplash-3-reel",
+        "name": "Cash Splash",
+        "shortName": "Cash Splash",
+        "vendor": "Microgaming",
+        "description": "The 3 reel version of CashSplash has changed very little since its inception, and with the exception of enhanced graphics, and the auto play and statistic facilities available in the Viper release of Microgamings software, it is much the same slot as when it was originally released. The value of each coin is fixed at one dollar (or currency equivalent) and you need to play 3 coins to win the progressive – triggered by lining up three CashSplash symbols on the single pay line. The CashSplash symbol is wild and substitutes for any other symbol, when one CashSplash symbol appears on the pay line it doubles the win, two CashSplash symbols quadruple the winning combination.",
+        "newGame": false,
+        "popularity": 3079,
+        "thumbnail": "//static.gammatrix.com/_casino/6/6FEFBC084CBB6491DAA796CE1475701E.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/1/16629FB1A20ADA212124C97ED269AF90.png",
+        "categories": [
+            "CLASSICSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "3-reel-slot",
+            "global-jp"
+        ]
+    }, {
+        "slug": "cashsplash-5-reel",
+        "name": "Cash Splash 5 Reel",
+        "shortName": "Cash Splash 5 Reel",
+        "vendor": "Microgaming",
+        "description": "The 5 reel version of CashSplash is a fixed coin value, 15 pay line machine, with an additional scatter bonus feature. The coin value is 20 cents, but 15 lines must be played to qualify for the jackpot, so maximum bet, at $3 is the same as for the 3 reel version. ",
+        "newGame": false,
+        "popularity": 5195,
+        "thumbnail": "//static.gammatrix.com/_casino/5/539F8BFFB2652840F92438765F7C579A.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/E/ED50366892512EA75E3FB81A34022219.png",
+        "categories": [
+            "CLASSICSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "15-line-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "fruit-fiesta-3-reel",
+        "name": "Fruit Fiesta",
+        "shortName": "Fruit Fiesta",
+        "vendor": "Microgaming",
+        "description": "Fruit Fiesta 3 Reel is a three reel, three payline, and three coin slot machine. The multiple paylines increase your chances of winning.\r\nFruit Fiesta 3 Reel has a wild symbol and a Progressive Jackpot that is activated when you bet three coins.",
+        "newGame": false,
+        "popularity": 3421,
+        "thumbnail": "//static.gammatrix.com/_casino/8/89E6E97F0E0AFF9DADB08CF06CE29E71.jpg",
+        "license": "none",
+        "logo": "//static.gammatrix.com/_casino/9/9B921CBA0546407FBBF879A38F5FC745.png",
+        "categories": [
+            "CLASSICSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "3-line-slots",
+            "3-reel-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "fruit-fiesta-5-reel",
+        "name": "Fruit Fiesta 5 Reel",
+        "shortName": "Fruit Fiesta 5 Reel",
+        "vendor": "Microgaming",
+        "description": "Fruit Fiesta 5 Reel is a five reel, fifteen payline, and fifteen coin slot machine. The multiple paylines increase your chances of winning.\r\nFruit Fiesta 5 Reel has a wild symbol, a scatter symbol, and a Progressive Jackpot.",
+        "newGame": false,
+        "popularity": 11627,
+        "thumbnail": "//static.gammatrix.com/_casino/8/8B55827C510182DE2A23B07D211EFDB3.jpg",
+        "license": "none",
+        "logo": "//static.gammatrix.com/_casino/9/9F99551CFFE56DA6335A0F9AB5311ED4.png",
+        "categories": [
+            "CLASSICSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "15-line-slots",
+            "5-reel-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "mega-moolah-isis",
+        "name": "Mega Moolah Isis",
+        "shortName": "Mega Moolah Isis",
+        "vendor": "Microgaming",
+        "description": "With an Egyption theme deeply rooted in ancient culture, the slots boast a number of symbols including Isis as the wild symbol and Hawk is the scatter symbol. Other thematic symbols include Ankh, Vase, Orb, Brooch and Lotus.A number of jackpot options can be enjoyed with this online slots progressive, including a fixed jackpot, progressive jackpot, multiplier and doubles payouts. Scatter symbols are also present to add to the fun and wins. ",
+        "newGame": false,
+        "popularity": 53494,
+        "thumbnail": "//static.gammatrix.com/_casino/F/FFAEDE7373CFADD2B1365A44C6AAE08C.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/5/5745404F6439B7D02927BF48C5C25048.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "global-jp"
+        ]
+    }, {
+        "slug": "major-millions",
+        "name": "Major Millions 5 Reel",
+        "shortName": "Major Millions",
+        "vendor": "Microgaming",
+        "description": "Major Millions is a 5 Reel, 15 Line video slot game with huge progressive jackpots. The maximum bet in Major Millions is 3 credits. You must place the maximum bet to be eligible to win the progressive jackpot. ",
+        "newGame": false,
+        "popularity": 8026,
+        "thumbnail": "//static.gammatrix.com/_casino/C/C18609AD1AAA2BE13ABAA061B545B034.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/A/ABEACF9467EF4FEBCBA62BB7E4C7E76C.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "15-line-slots",
+            "5-reel-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "king-cashalot",
+        "name": "King CashaLot",
+        "shortName": "King CashaLot",
+        "vendor": "Microgaming",
+        "description": "King Cashalot Video Slot is a 5 reel, 9 payline, multiple coin game, with a Multiplying Wild and Scatter symbol, and a Bonus Feature.Travel back in time to enjoy the incredible adventures of medieval knights with the King CashaLot  video slot! Fight against the deadliest royal enemies to get your hands on the biggest progressive jackpot you’ve ever heard of! ",
+        "newGame": false,
+        "popularity": 6693,
+        "thumbnail": "//static.gammatrix.com/_casino/A/A3F80AEE38442439ACE71AD0BE4C9FEE.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/4/4D20E7AFD78F580A21407DCFCFBAFB52.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "9-line-slots",
+            "5-reel-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "lotsaloot-3-reel",
+        "name": "Lots a Loot",
+        "shortName": "Lots a Loot",
+        "vendor": "Microgaming",
+        "description": "LotsALoot 3 Reel is a 3 reel, 5 payline slot, one of the most affordable games out there, as the bet range going from 1 to 25 coins really suits everyone’s pockets. Apart from impressive audiovisual effects and a very lucky theme, the Lotsaloot progressive slot has some incredible things to offer.",
+        "newGame": false,
+        "popularity": 1454,
+        "thumbnail": "//static.gammatrix.com/_casino/9/9D0B04AB6165C0BAA656A2FB85EE9650.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/9/90DFD8AC992E5F0EAD02788E5D452949.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "3-reel-slots",
+            "5-line-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "lotsaloot-5-reel",
+        "name": "Lots a Loot 5 Reel",
+        "shortName": "Lots a Loot 5 Reel",
+        "vendor": "Microgaming",
+        "description": "The LotsaLoot game has two versions - a three reel slot with 5 paylines and a five reel slot with 25 paylines. Once the progressive has been hit, there are still plenty of other prizes to be won; giving you more chances to win big on every online slots game.",
+        "newGame": false,
+        "popularity": 2447,
+        "thumbnail": "//static.gammatrix.com/_casino/9/9D0B04AB6165C0BAA656A2FB85EE9650.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/5/5BA5EBDA27AC94F28E9E7A5DF4D9968F.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "25-line-slots",
+            "5-reel-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "treasure-nile",
+        "name": "Treasure Nile",
+        "shortName": "Treasure Nile",
+        "vendor": "Microgaming",
+        "description": "Treasure Nile is a 5 reel, 9 pay line progressive jackpot slot. Whether you are a beginner or an advanced high roller, Treasure Nile with its staggering progressive jackpot is able to keep any slot player frozen to its reels.",
+        "newGame": false,
+        "popularity": 1074,
+        "thumbnail": "//static.gammatrix.com/_casino/A/AA5311596ED2EE49F91A81D6F06EFFBA.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/0/09AAD2C0066ECE7D068FED4C927E5BDD.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "9-line-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "tunzamunni",
+        "name": "Tunzamunni",
+        "shortName": "Tunzamunni",
+        "vendor": "Microgaming",
+        "description": "Tunzamunni video slot has 3 reels and 1 payline that will spin to make your symbol combination.You can bet up to 5 coins a spin but those coins can only be worth 0.05.There are no Wilds or Scatter symbols so what you see is what you get in terms of icon combinations.\r\n",
+        "newGame": false,
+        "popularity": 49473,
+        "thumbnail": "//static.gammatrix.com/_casino/2/20AC6E79381E0C4469D4F283D6289CE1.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/7/7C4E515DDD28728C0F2C5326B4D99689.png",
+        "categories": [
+            "CLASSICSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "3-reel-slot",
+            "1-line-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "wowpot",
+        "name": "Wow Pot",
+        "shortName": "Wow Pot",
+        "vendor": "Microgaming",
+        "description": "The 5 reel version of Wowpot has a fixed coin value of 10 cents and 15 pay lines which means that your chances to hit the huge progressive jackpot are so much better. What's more, 5 Wow Pot symbols on the 15th payline are enough to land you the big progressive prize. ",
+        "newGame": false,
+        "popularity": 567,
+        "thumbnail": "//static.gammatrix.com/_casino/D/D157F22EA0C4853EC29EF71CC21A88D1.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/D/D0542497A3D7A4FC75848CAF926E9033.png",
+        "categories": [
+            "VIDEOSLOTS",
+            "JACKPOTGAMES"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "15-line-slots",
+            "global-jp"
+        ]
+    }, {
+        "slug": "genies-gems",
+        "name": "Genies Gems",
+        "shortName": "Genies Gems",
+        "vendor": "Microgaming",
+        "description": " Genie’s Gems Video Slot is a 5 reel, 10 coin, 20 payline + 5 coins per line bet for the Golden Goose Bonus Feature. It has a Wild, Multiplier and a Scatter symbol, and 4 randomly triggered Bonus games.",
+        "newGame": false,
+        "popularity": 67,
+        "thumbnail": "//static.gammatrix.com/_casino/2/271CEC39B07A4C1728872835113CEF9F.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/E/EA34210ABE10BACFB36BD492DC0A987A.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "20-line-slots"
+        ]
+    }, {
+        "slug": "gopher-gold",
+        "name": "Gopher Gold",
+        "shortName": "Gopher Gold",
+        "vendor": "Microgaming",
+        "description": "Gopher Gold is a 5 reel, 5 payline and 5 coin slot machine with an enticing Wild symbol meant to increase a player’s chances of hitting a winning combination.  This reel slot offers a wide range of coin size bets with a maximum of 5 coins across the 5 reels. Placing a maximum bet with every spin increases a player’s chance of hitting the 12, 000 coins jackpot prize.",
+        "newGame": false,
+        "popularity": 1097,
+        "thumbnail": "//static.gammatrix.com/_casino/2/2979994CCAF022D1FB6B215EAF08EBF6.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/9/95C6C38AACE428EAF1607A1FAC3BDEE4.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-line-slots",
+            "5-reel-slots"
+        ]
+    }, {
+        "slug": "hot-shot",
+        "name": "Hot Shot",
+        "shortName": "Hot Shot",
+        "vendor": "Microgaming",
+        "description": "Hot Shot is a five-reel, nine payline, and nine coin slot machine.The Wild Ball symbol is wild and can substitute for all other icons except the Scatter Trophy to complete winning combinations. ",
+        "newGame": false,
+        "popularity": 302,
+        "thumbnail": "//static.gammatrix.com/_casino/D/DBC74819CAD09942B64FCFF05BA8EE6C.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/C/CEB14A017145A884D571C4896E1FAE0D.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slots"
+        ]
+    }, {
+        "slug": "immortal-romance",
+        "name": "Immortal Romance",
+        "shortName": "Immortal Romance",
+        "vendor": "Microgaming",
+        "description": "Immortal Romance is a 5 reel, 243 Ways Video Slot, with a wild symbol and scatters which trigger a Free Spins Selection Bonus. The game also includes a randomly triggered Wild Desire Feature with Held Wild reels, as well as a Player Achievements structure.  \r\n\r\n",
+        "newGame": false,
+        "popularity": 826453,
+        "thumbnail": "//static.gammatrix.com/_casino/0/0AC7359A19B9C4D22A267B9810B9B33D.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/B/BD65CB5D21D4AD44130495E57E6F6654.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "karate-pig",
+        "name": "Karate Pig",
+        "shortName": "Karate Pig",
+        "vendor": "Microgaming",
+        "description": "Karate Pig is a 5 Reel, 40 Payline Video Slot, with stacked Wild substitutes, a Free Spins and a Bonus scatter which triggers a Multi-Level Bonus Game. 2 Free Spins scatter on the reels 1 and 5 triggers the 15 Free Spins at a 2x multiplier. The Bonus scatter symbol unlocks a Bonus Selection screen. ",
+        "newGame": false,
+        "popularity": 33513,
+        "thumbnail": "//static.gammatrix.com/_casino/D/DE137D69012375069FA59E7FECE38438.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/C/CE38FB901C235921D0C0EC3BE9A8BDA7.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "40-line-slots"
+        ]
+    }, {
+        "slug": "lady-in-red",
+        "name": "Lady in Red",
+        "shortName": "Lady in Red",
+        "vendor": "Microgaming",
+        "description": "Lady in Red is a 5-reel 25 paylines Video Slot with a recurring Free Spins Feature. 3, 4 or 5 scatters trigger 15, 20 or 25 Free Spins respectively, accompanied by a 3x multiplier.",
+        "newGame": false,
+        "popularity": 12308,
+        "thumbnail": "//static.gammatrix.com/_casino/B/B42AC5EA446E3D6FB6FD87365FF4D3A5.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/4/41E467DD1AD6385D52A47CC2F21313DE.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "25-line-slots"
+        ]
+    }, {
+        "slug": "great-griffin",
+        "name": "Great Griffin",
+        "shortName": "Great Griffin",
+        "vendor": "Microgaming",
+        "description": "Great Griffin Video Slot is a 5x4 Reel, 50 Payline Video Slot, with Wild substitutes, a Free Spins Bonus feature as well as extra wilds and on screen Pick Bonus.",
+        "newGame": false,
+        "popularity": 4787,
+        "thumbnail": "//static.gammatrix.com/_casino/2/2476FFF82E2A4A40C40FC17C7D27DD60.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/1/18893C7D1CFFC4C34C9A2150A20821F2.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": []
+    }, {
+        "slug": "mega-spins-break-da-bank",
+        "name": "Mega Spins Break Da Bank",
+        "shortName": "Mega Spins BDB",
+        "vendor": "Microgaming",
+        "description": "MegaSpin Break da Bank Again video slot is a super charged new slot machine that is sure to be a huge success! This slot machine is based on the highly popular 5-reel Break da Bank Again slot, with 9 paylines and more Free Spins than you could imagine.  This game is ideal for players with some previous slot machine, with fairly simple rules.Added to this are bonus features such as Scatters and Wilds, making it as easy as could be to rack up massive wins. ",
+        "newGame": false,
+        "popularity": 36435,
+        "thumbnail": "//static.gammatrix.com/_casino/4/460B81BE7D9DC7D2369A7F3E46C8388E.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/9/9B49BF9E2ABBA35B33247F4E9C1E405F.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "9-line-slots",
+            "5-reel-slots"
+        ]
+    }, {
+        "slug": "monster-mania",
+        "name": "Monster Mania",
+        "shortName": "Monster Mania",
+        "vendor": "Microgaming",
+        "description": "Monster Mania is a 5-reel, 9-payline slots with a very simple gameplay and an even simpler interface. Once you take a look at it, it's pretty certain that you won't be needing to read any guides.",
+        "newGame": false,
+        "popularity": 71,
+        "thumbnail": "//static.gammatrix.com/_casino/1/1DBFC5AF5DD92AB1FF479E8C21877B38.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/F/F769245EC37BD9CDCB553CE7F320D869.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "9-line-slots"
+        ]
+    }, {
+        "slug": "oriental-fortune",
+        "name": "Oriental Fortune",
+        "shortName": "Oriental Fortune",
+        "vendor": "Microgaming",
+        "description": "Oriental Fortune is a 5 reels, 5 paylines and a generous 38 ways to win! The beautifully illustrated Chinese Geisha icon is the Wild symbol in Oriental Fortune and can substitute for any missing symbol to complete winning combos for big payouts. ",
+        "newGame": false,
+        "popularity": 135,
+        "thumbnail": "//static.gammatrix.com/_casino/5/5F9B1BDBC06E5069C0D49B000D875E34.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/B/B43CEB56B6C0A57F0A82F8429707B4C8.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "5-line-slots"
+        ]
+    }, {
+        "slug": "pure-platinum",
+        "name": "Pure Platinum",
+        "shortName": "Pure Platinum",
+        "vendor": "Microgaming",
+        "description": "Pure Platinum is a 5-reel video slot with 40 paylines and Fee Spins (non-recurring) and Multiplier options.\r\n",
+        "newGame": false,
+        "popularity": 38978,
+        "thumbnail": "//static.gammatrix.com/_casino/9/97C56F4B4F18DB2E5970E8B7463BA308.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/5/5E4C63E74902477C05E65296196D631A.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "40-line-slots"
+        ]
+    }, {
+        "slug": "reel-thunder",
+        "name": "Reel Thunder",
+        "shortName": "Reel Thunder",
+        "vendor": "Microgaming",
+        "description": "Reel Thunder is a 5 reel, 9 payline, and nine coin slot machine.The multiple paylines increase your chances of winning.Reel Thunder has a wild symbol, and a scatter symbol.",
+        "newGame": false,
+        "popularity": 1934,
+        "thumbnail": "//static.gammatrix.com/_casino/9/90F82D40765E83FF7D09BFDC51D7D2BA.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/2/294202566910B37EEC5AED6A72BD9B41.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "scrooge",
+        "name": "Scrooge",
+        "shortName": "Scrooge",
+        "vendor": "Microgaming",
+        "description": "This great 5-reel, 50-payline video slot will spice up your Christmas with some truly incredible wins.Scrooge is undoubtedly a game full of festive cheer. Apart from the eye-catching graphics and amazing sounds, Scrooge offers a big-hearted 50,000 jackpot in the base game, a 100,000 payout during Free Spins and a whopping 5,000 up for grabs in the Scrooge bonus feature.",
+        "newGame": false,
+        "popularity": 62075,
+        "thumbnail": "//static.gammatrix.com/_casino/0/02599C7841A989EF279A18966D77AF32.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/9/93D909E6C688A3CBA6956FABDFEC61F5.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "50-line-slots",
+            "5-reel-slots"
+        ]
+    }, {
+        "slug": "stash-of-the-titans",
+        "name": "Stash of the Titans",
+        "shortName": "Stash of Titans",
+        "vendor": "Microgaming",
+        "description": "These magical warriors will share their stash with you! Come to their land and play for your winnings. Stash of the Titans is a 5-reel video slot with 20 paylines, and Free Spins where all wins are multiplied by 4x.\r\n",
+        "newGame": false,
+        "popularity": 5860,
+        "thumbnail": "//static.gammatrix.com/_casino/A/AB5DB2024E6739C84EBEC31B9067430D.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/D/DA9BE4B6C8BBD7A93D21B9185C79976D.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "20-line-slots"
+        ]
+    }, {
+        "slug": "sun-quest",
+        "name": "Sun Quest",
+        "shortName": "Sun Quest",
+        "vendor": "Microgaming",
+        "description": "SunQuest is a 5 reel, 9 payline online video slot which comes with a 9 coin betting option. SunQuest online video slot comes with a tantalizing 1000 coins jackpot prize. This online video slot comes with two exciting features to increase your winning chances; the Wild symbol and Scatter symbol. ",
+        "newGame": false,
+        "popularity": 10960,
+        "thumbnail": "//static.gammatrix.com/_casino/2/2E9507F545AB03DF9C13B7173A5B1C1A.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/3/346F6BE29840B2CBB5813ACA70CC880A.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "9-line-slots"
+        ]
+    }, {
+        "slug": "5-reel-drive",
+        "name": "5 Reel Drive",
+        "shortName": "5 Reel Drive",
+        "vendor": "Microgaming",
+        "description": "5 Reel Drive is a 5 reel, 9 payline video slot with top graphics and unique sounds to take you back in time to the 1950s and join the daring hot rod drivers.This exciting racing theme behind the beautifully drawn artwork makes the 5 Reel Drive video slot even more fun. Hit the road in your fantasy supercar and begin your journey towards the awesome prizes of 5 Reel Drive! ",
+        "newGame": false,
+        "popularity": 1406,
+        "thumbnail": "//static.gammatrix.com/_casino/A/A83AF744D78606F7557B8911BB2BEBFE.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/0/0355C0E44E8B33F5E3EC15F043E7898E.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "9-line-slots"
+        ]
+    }, {
+        "slug": "supe-it-up",
+        "name": "Supe it Up",
+        "shortName": "Supe it Up",
+        "vendor": "Microgaming",
+        "description": "Supe It Up Video Slot is a 5 reel, 25 payline multiple coin game, with Wild and Scatter Symbols, a Free Spin Feature and a Gamble Feature and with a steaming hotrod theme that will rev your engine and a Free Spins Feature that will leave you wheeling for more. ",
+        "newGame": false,
+        "popularity": 4479,
+        "thumbnail": "//static.gammatrix.com/_casino/9/9363EB1BEBF68ED0F7466A6A9A41278C.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/4/49C3C1BD4446D5BA56FA1E65160333C5.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slots",
+            "25-line-slots"
+        ]
+    }, {
+        "slug": "the-osbournes",
+        "name": "The Osbournes",
+        "shortName": "The Osbournes",
+        "vendor": "Microgaming",
+        "description": "The Osbournes is a 5-reel, 20 line video slot which contains a Trail Feature inside of Free Spins, an on-screen bonus feature and a random bonus game which can be triggered anytime inside of the base game. ",
+        "newGame": false,
+        "popularity": 3620,
+        "thumbnail": "//static.gammatrix.com/_casino/7/7192D4B129983369F22C2787C3CA2406.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/B/B2D4E792F4F604C683AEC75A9A03EB82.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot",
+            "20-line-slots"
+        ]
+    }, {
+        "slug": "the-rat-pack",
+        "name": "The Rat Pack",
+        "shortName": "The Rat Pack",
+        "vendor": "Microgaming",
+        "description": "The Rat Pack is a 30 payline, 5 reel video slot which allows you to enjoy groovy wins. This glamorous, Jazzy game will get you swinging to some cool tunes.With an added Gamble Feature, this slot will have you on your feet, dancing to the sound of musical spoils!\r\n",
+        "newGame": false,
+        "popularity": 17902,
+        "thumbnail": "//static.gammatrix.com/_casino/7/71E972405652C3E21E4AD4FCB0063F87.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/6/69AED669FF3230A41F47F44ADA612581.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "30-line-slots"
+        ]
+    }, {
+        "slug": "throne-of-egypt",
+        "name": "Throne of Egypt",
+        "shortName": "Throne of Egypt",
+        "vendor": "Microgaming",
+        "description": "Throne of Egypt Video Slot is a 5 Reel, 25 Payline Video Slot, with stacked Wild substitutes, a Free Spins and a Bonus scatter which triggers a Multi-Level Bonus Game. 2 Free Spins scatter on the reels 1 and 5 triggers the 15 Free Spins and the Bonus scatter symbol unlocks the Bonus Chamber with 3 Levels. \r\n\r\n",
+        "newGame": false,
+        "popularity": 8043,
+        "thumbnail": "//static.gammatrix.com/_casino/0/0DFEF4E1DCB20A23645DD2B711FCD29E.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/7/7C430B5BBC5C88ECB4F328A9A2C414DE.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "totem-treasure",
+        "name": "Totem Treasure",
+        "shortName": "Totem Treasure",
+        "vendor": "Microgaming",
+        "description": "Golden Goose Winning Wizards Video Slot is a 5 reel, 10 coin, 20 payline + 5 coins per line bet for the Golden Goose Bonus Feature. It has a Wild and a Scatter symbol, and 4 randomly triggered Bonus games.",
+        "newGame": false,
+        "popularity": 348,
+        "thumbnail": "//static.gammatrix.com/_casino/3/3CFA402C0E03E814C5CBC67EA13BB06C.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/0/0EBA60A001A5CBD1FBED1B6215CE2227.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }, {
+        "slug": "vinyl-countdown",
+        "name": "Vinyl Countdown",
+        "shortName": "Vinyl Countdown",
+        "vendor": "Microgaming",
+        "description": "Vinyl Countdown is a 5 reel, 9 payline Video Slot game, with a Wild symbol and a Scatter symbol.",
+        "newGame": false,
+        "popularity": 301,
+        "thumbnail": "//static.gammatrix.com/_casino/4/48971251D4EE91B169090FF75AC947DA.jpg",
+        "license": "curacao",
+        "logo": "//static.gammatrix.com/_casino/6/6040FB9256A76CE4EEFFC01941031620.png",
+        "categories": [
+            "VIDEOSLOTS"
+        ],
+        "tags": [
+            "5-reel-slot"
+        ]
+    }]
+}
