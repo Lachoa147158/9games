@@ -48,6 +48,24 @@ function gamesController($scope, $http) {
         }); 
 	$scope.games = aux;
 	$scope.games2 = aux2;
+	
+	var read = [];
+	var numLimit = [];
+	for(var i=0;i<8;i++){
+		numLimit[i] = 60;
+	    read[i] = 1;
 	}
+	$scope.read = read;
+	$scope.readMore = function(i){
+		$scope.numLimit[i] =330;
+		$scope.read[i] = 0;
+	};
+	$scope.readLess = function(i){
+		$scope.numLimit[i] = 60;
+		$scope.read[i] = 1;
+	};
+	$scope.numLimit = numLimit;
+	
+}
 
 

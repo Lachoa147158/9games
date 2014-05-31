@@ -28,10 +28,14 @@
 			<li ng-repeat="game in games | searchFor:searchString">
 				<a href="#">
 				<img ng-src="{{game.thumbnail}}" />
-				<div><span>{{game.name}}</span></div>
+				<div><span>{{game.name}}</span>
+				{{game.popularity}}</div>
 				</a>
+				<div><span>{{game.description | limitTo:numLimit[$index] }}</span>
+				<a href="#" ng-show="read[$index]"  ng-click="readMore($index)">read more</a>
+				<a href="#" ng-hide="read[$index]" ng-click="readLess($index)">read less</a></div>
 			</li>
-			<li>
+			<li ng-style='{"height":"230px"}' ng-hide="searchString">
 				<a href="#" ng-class="{active: active == 'games'}" ng-click="active = 'games'">
 				<img src="assets/more_games.jpg" />
 				<div><span>More games</span></div>
