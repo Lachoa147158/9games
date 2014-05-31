@@ -37,7 +37,7 @@
 				<a href="" ng-hide="read[$index]" ng-click="readLess($index)">read less</a></div>
 			</li>
 			<li ng-style='{"height":"230px"}' ng-hide="searchString">
-				<a href="#" ng-class="{active: active == 'games'}" ng-click="active = 'games'">
+				<a href="#" ng-class="{active: active == 'games'}" ng-click="active = 'games'; getMoreGames($secv+17)" >
 				<img src="assets/more_games.jpg" />
 				<div><span>More games <br> <small>9games</small></span>
 				<p class="star-rating" star-rating rating-value="5" data-max="5" ></p></div>
@@ -46,10 +46,17 @@
 		</ul>
 		
 		<ul id="da-thumbs" class="da-thumbs" ng-show="active == 'games'">
-			<li ng-repeat="game in games2 | searchFor:searchString">
-				<a href="#">
+			<li ng-repeat="game in games3 | searchFor:searchString">
+				<a href="#" >
 				<img ng-src="{{game.thumbnail}}" />
 				<div><span>{{game.name}}</span></div>
+				</a>
+			</li>
+			<li ng-style='{"height":"230px"}' ng-hide="searchString">
+				<a href="#" ng-class="{active: active == 'games'}" ng-click="active = 'games'; getMoreGames($secv)" >
+				<img src="assets/more_games.jpg" />
+				<div><span>More games <br> <small>9games</small></span>
+				<p class="star-rating" star-rating rating-value="5" data-max="5" ></p></div>
 				</a>
 			</li>
 		</ul>

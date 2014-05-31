@@ -35,6 +35,7 @@ function gamesController($scope, $http) {
 	$scope.active = 'home';
     var aux = [];
 	var aux2 = [];
+	var lastIndex = 0;
 	var k =0;
     var rating = [];
 	var pop = 0;
@@ -56,11 +57,12 @@ function gamesController($scope, $http) {
 			  else if(pop > 200000)
 			    rating[i] = 5;
            		  }
-		   for(var j=i;j<17;j++){
-				 aux2[k] = res.data.games[j];  
-				 k++;		  
-			}
+		      $scope.lastIndex = i;
+	         
+			 
         }); 
+	var secv = 17;
+	$scope.secv = secv;;
 	$scope.games = aux;
 	$scope.games2 = aux2;
 	
@@ -83,6 +85,37 @@ function gamesController($scope, $http) {
 	
 	$scope.rating = rating;
 
+	$scope.getMoreGames = function(secv){
+		
+		$http.get('assets/data.json')
+       .then(function(res){
+           for(var i=0;i<secv;i++){
+             aux[i] = res.data.games[i]; 			 
+			 pop = res.data.games[i].popularity;
+			 if(pop == 0)
+				rating[i] = 0;
+			  else if(pop < 50000)
+			    rating[i] = 1;
+			  else if(pop < 100000)
+			    rating[i] = 2;
+			  else if(pop < 150000)
+			    rating[i] = 3;
+			  else if(pop < 200000)
+			    rating[i] = 4;
+			  else if(pop > 200000)
+			    rating[i] = 5;
+            lastIndex += 1;
+				  }
+		    secv += 9;
+			$scope.secv = secv;
+			$scope.games3 = aux;
+			
+
+        }); 
+		
+	};
+	
+	
   };
   
   
