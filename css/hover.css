@@ -1,3 +1,4 @@
+/* Grid style */
 .da-thumbs {
 	list-style: none;
 	width: 900px;
@@ -46,6 +47,7 @@
   text-transform: none;
 }
 
+/* Hover animation */
 .da-thumbs li a div {
 	top: 0px;
 	left: -100%;
@@ -59,6 +61,7 @@
 	left: 0px;
 }
 
+/* Star-rating style */
 .star-rating li{
 	list-style-type: none;
     display: inline-block;

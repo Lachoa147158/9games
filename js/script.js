@@ -1,8 +1,7 @@
-
-
+/* 9games - Script file */
 var app = angular.module("nine-games", ['ngResource']);
 
-
+/* Search filter */
 app.filter('searchFor', function(){
 
 	return function(arr, searchString){
@@ -30,47 +29,58 @@ app.filter('searchFor', function(){
 
 });
 
+/* Main Controller */
 function gamesController($scope, $http) {
-
+    
+	/* Home page initialization */
 	$scope.active = 'home';
-    var aux = [];
-	var aux2 = [];
-	var k =0;
-    var rating = [];
-	var pop = 0;
-	$http.get('assets/data.json')
+    
+	/* Arrays define */
+	var aux = [];
+	var rating = [];
+	var read = [];
+	var numLimit = [];
+    
+	/* Secvential game load function */
+		$scope.getMoreGames = function(lastIndex,secv){
+		var pop = 0;
+		/* load json file */
+		$http.get('assets/data.json')
        .then(function(res){
-           for(var i=0;i<8;i++){
-             aux[i] = res.data.games[i];  
+	       /* for loop, from last loaded index to new value(+ 9) */
+           for(var i=lastIndex;i<secv;i++){
+		     /* load games in aux array */
+	         if(res.data.games[i] == null)
+			   break;
+             aux[i] = res.data.games[i]; 	
+			 /* set rating value 0-5 */
 			 pop = res.data.games[i].popularity;
 			 if(pop == 0)
 				rating[i] = 0;
-			  else if(pop < 50000)
+			  else if(pop < 500)
 			    rating[i] = 1;
-			  else if(pop < 100000)
+			  else if(pop < 1000)
 			    rating[i] = 2;
-			  else if(pop < 150000)
+			  else if(pop < 50000)
 			    rating[i] = 3;
-			  else if(pop < 200000)
+			  else if(pop < 1000000)
 			    rating[i] = 4;
-			  else if(pop > 200000)
+			  else if(pop > 1000000)
 			    rating[i] = 5;
-           		  }
-		   for(var j=i;j<17;j++){
-				 aux2[k] = res.data.games[j];  
-				 k++;		  
-			}
+			/* initialize 'read more' array */	
+			numLimit[i] = 60;
+			read[i] = 1;				
+				  }
         }); 
-	$scope.games = aux;
-	$scope.games2 = aux2;
+            
+			$scope.secv = secv;
+			$scope.games = aux;
+			$scope.rating = rating;
+			$scope.read = read;
+			$scope.numLimit = numLimit;
+	};
 	
-	var read = [];
-	var numLimit = [];
-	for(var i=0;i<8;i++){
-		numLimit[i] = 60;
-	    read[i] = 1;
-	}
-	$scope.read = read;
+	
 	$scope.readMore = function(i){
 		$scope.numLimit[i] =330;
 		$scope.read[i] = 0;
@@ -79,15 +89,13 @@ function gamesController($scope, $http) {
 		$scope.numLimit[i] = 60;
 		$scope.read[i] = 1;
 	};
-	$scope.numLimit = numLimit;
 	
-	$scope.rating = rating;
-
+	
   };
   
-  
-  
-  app.directive('starRating',
+ 
+/* Rating-star directive */ 
+app.directive('starRating',
 	function() {
 		return {
 			restrict : 'A',
@@ -99,7 +107,7 @@ function gamesController($scope, $http) {
 			scope : {
 				ratingValue : '=',
 				max : '=',
-				onRatingSelected : '&'
+
 			},
 			link : function(scope, elem, attrs) {
 				var updateStars = function() {
@@ -111,12 +119,6 @@ function gamesController($scope, $http) {
 					}
 				};
 				
-				scope.toggle = function(index) {
-					scope.ratingValue = index + 1;
-					scope.onRatingSelected({
-						rating : index + 1
-					});
-				};
 				
 				scope.$watch('ratingValue',
 					function(oldVal, newVal) {
