@@ -54,3 +54,28 @@
 .da-thumbs li a:hover div{
 	left: 0px;
 }
+
+.star-rating li{
+	list-style-type: none;
+    display: inline-block;
+	float: none;
+	margin: 0px;
+	background: transparent;
+	padding: 1px;
+	position: relative;
+	width: 20px;
+}
+
+.rating{
+  color: #a9a9a9;
+  margin: 0;
+  padding: 0;
+}
+
+ul.rating {
+  display: inline-block;
+}
+
+.rating .filled {
+  color: white;
+}
