@@ -40,7 +40,8 @@ function gamesController($scope, $http) {
 	var rating = [];
 	var read = [];
 	var numLimit = [];
-    
+    $scope.nomore = false;
+    $scope.havemore = true;
 	/* Secvential game load function */
 		$scope.getMoreGames = function(lastIndex,secv){
 		var pop = 0;
@@ -50,8 +51,11 @@ function gamesController($scope, $http) {
 	       /* for loop, from last loaded index to new value(+ 9) */
            for(var i=lastIndex;i<secv;i++){
 		     /* load games in aux array */
-	         if(res.data.games[i] == null)
+	         if(res.data.games[i] == null){
+			   $scope.nomore = true;
+			   $scope.havemore = false;
 			   break;
+			   }
              aux[i] = res.data.games[i]; 	
 			 /* set rating value 0-5 */
 			 pop = res.data.games[i].popularity;
@@ -72,7 +76,6 @@ function gamesController($scope, $http) {
 			read[i] = 1;				
 				  }
         }); 
-            
 			$scope.secv = secv;
 			$scope.games = aux;
 			$scope.rating = rating;
