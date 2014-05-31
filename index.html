@@ -6,15 +6,15 @@
 		<title>9games</title>
 
 		<link href="http://fonts.googleapis.com/css?family=Cookie|Open+Sans:400,700" rel="stylesheet" />
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		<link rel="stylesheet" type="text/css" href="css/hover.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/hover.css" />
 	</head>
 
 	<body ng-app="nine-games" ng-controller="gamesController">
 
 
 		<div class="nav">
-			<a href="#" ng-class="{active: active == 'home'}" ng-click="active = 'home'"><img src="assets/9games-logo.png" /></a>
+			<a href="#" ng-class="{active: active == 'home'}" ng-click="active = 'home'"><img src="assets/images/9games-logo.png" /></a>
 			<input type="text" ng-model="searchString" placeholder="Search for games" />
 		</div>
 		
@@ -33,28 +33,27 @@
 				<a href="" ng-show="read[$index]"  ng-click="readMore($index)">read more</a>
 				<a href="" ng-hide="read[$index]" ng-click="readLess($index)">read less</a></div>
 			</li>
+			<li ng-style='{"height":"230px"}' ng-show="nomore && searchString == null" >
+				<a href="#" >
+				<img src="assets/images/top.png" />
+				<div><span>More games <br> coming soon!</span>
+				<p style="color:white"> back to top </p></div>
+				</a>
+			</li>
 			<li ng-style='{"height":"230px"}' ng-hide="searchString" ng-show="havemore" >
 				<a href="" ng-click="getMoreGames(secv,secv+9)" >
-				<img src="assets/more-games.png" />
+				<img src="assets/images/more-games.png" />
 				<div><span>More games <br> <small>9games</small></span>
 				<p class="star-rating" star-rating rating-value="5" data-max="5" ></p></div>
 				</a>
 			</li>
-			<li ng-style='{"height":"230px"}' ng-hide="searchString" ng-show="nomore" >
-				<a href="#" >
-				<img src="assets/top.png" />
-				<div><span>More games <br> coming soon!</span>
-				<p style="color:white"> back to top </p>
-				</div>
-				</a>
-			</li>
+
 		</ul>
 		
 
         </div>
-		
-		<script src="js/angular.min.js"></script>
-		<script src="js/angular-resource.min.js"></script>
-		<script src="js/script.js"></script>
+		<script src="assets/js/angular.min.js"></script>
+		<script src="assets/js/angular-resource.min.js"></script>
+		<script src="assets/js/script.js"></script>
 	</body>
 </html>
