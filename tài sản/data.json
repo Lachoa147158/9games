@@ -1,12 +1,12 @@
 {
     "games": [{
         "slug": "alien-robots",
-        "name": "Alien Robots",
-        "shortName": "Alien Robots",
+        "name": "DC Heroes",
+        "shortName": "DC Heroes",
         "vendor": "NetEnt",
-        "description": "Alien Robots™ is a beautiful and playful space age theme with vivid graphics and a Free Spins mode featuring an Expanded Sticky Wild with re-spin. Players will be immersed in the wonderful world of robots in which they can take small steps toward 30 bet lines or even take a giant leap to 243 bet ways.",
+        "description": "DC Heroes"™ is a beautiful and playful space age theme with vivid graphics and a Free Spins mode featuring an Expanded Sticky Wild with re-spin. Players will be immersed in the wonderful world of robots in which they can take small steps toward 30 bet lines or even take a giant leap to 243 bet ways.",
         "newGame": false,
-        "popularity": 91213,
+        "popularity": 269523,
         "thumbnail": "//static.gammatrix.com/_casino/F/F1C2DCFEAEC2C205DCA804345136874C.jpg",
         "license": "malta",
         "logo": "//static.gammatrix.com/_casino/2/2276FDCE0FA9E44988CBC6DA945B5F61.png",
@@ -15,7 +15,7 @@
         ],
         "tags": [
             "243-ways",
-            "30-line-slots"
+            "25-line-slots"
         ]
     }, {
         "slug": "arabian-nights",
@@ -37,7 +37,8 @@
         ]
     }, {
         "slug": "blood-suckers",
-        "name": "Blood Suckers",
+        "name": "Stumbleupm
+",
         "shortName": "Blood Suckers",
         "vendor": "NetEnt",
         "description": "Blood Suckers™ is a 5-reel, 25-line, vampire inspired video slot with a high payout ratio. Three or more bonus symbols take the player to a chilling vampire slaying bonus game. The maximum bet per game is €50, with a maximum win during Free spins of €50,730.",
